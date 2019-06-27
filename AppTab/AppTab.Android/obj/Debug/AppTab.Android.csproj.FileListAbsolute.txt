@@ -1,0 +1,10 @@
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.Android\obj\Debug\AppTab.Android.csprojAssemblyReference.cache
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.Android\obj\Debug\App.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.Android\obj\Debug\Views\MainPage.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.Android\obj\Debug\Views\AboutPage.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.Android\obj\Debug\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.Android\obj\Debug\Views\ItemsPage.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.Android\obj\Debug\Views\NewItemPage.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.Android\obj\Debug\AppTab.Android.csproj.CoreCompileInputs.cache
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.Android\obj\Debug\MsterSayfa\MyMenü.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.Android\obj\Debug\MsterSayfa\MyDetail.xaml.g.cs

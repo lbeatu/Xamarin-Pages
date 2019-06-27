@@ -1,0 +1,16 @@
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\AppTab.iOS.csprojAssemblyReference.cache
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\App.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\Views\MainPage.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\Views\AboutPage.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\Views\ItemsPage.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\Views\NewItemPage.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\MsterSayfa\MyMenü.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\MsterSayfa\MyDetail.xaml.g.cs
+C:\Users\Özhan YILDIZ\source\repos\AppTab\AppTab\AppTab.iOS\obj\iPhoneSimulator\Debug\AppTab.iOS.csproj.CoreCompileInputs.cache
